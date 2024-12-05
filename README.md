@@ -1,21 +1,16 @@
 # data-visualization-python
-Data Visualization with Python 
-Analyzing the Impact of Recession on Automobile Sales
-About the dataset
-In this assignment you will be presented with varies question for analysing data to understand the historical trends in automobile sales during recession periods.
-
-recession period 1 - year 1980
-
-recession period 2 - year 1981 to 1982
-
-recession period 3 - year 1991
-
-recession period 4 - year 2000 to 2001
-
-recession period 5 - year end 2007 to mid 2009
-
-recession period 6 - year 2020 -Feb to April (Covid-19 Impact)
-
+<h1>Data Visualization with Python </h1>
+<h2>Analyzing the Impact of Recession on Automobile Sales</h2>
+<p>About the dataset
+In this assignment you will be presented with varies question for analysing data to understand the historical trends in automobile sales during recession periods.<p>
+<ul>
+  <li>recession period 1 - year 1980</li>
+  <li>recession period 2 - year 1981 to 1982</li>
+  <li>recession period 3 - year 1991</li>
+  <li>recession period 4 - year 2000 to 2001</li>
+  <li>recession period 5 - year end 2007 to mid 2009</li>
+  <li>recession period 6 - year 2020 -Feb to April (Covid-19 Impact)</li>
+</ul>
 
 The data used in this lab has been artifically created for the purpose of this assignment only. No real data has been used.
 
@@ -39,5 +34,5 @@ By examining various factors mentioned above from the dataset, you aim to gain i
 
 This Project will be completed in 2 Parts:
 
-Part 1: Create Visualizations using Matplotlib, Seaborn & Folium
-Part 2: Create Dashboard using Plotly and Dash
+<p>Part 1: Create Visualizations using Matplotlib, Seaborn & Folium <br>
+Part 2: Create Dashboard using Plotly and Dash</p>
